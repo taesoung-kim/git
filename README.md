@@ -43,6 +43,6 @@ git 명령어, 공부 기록
 
 ### 사용자 정보 셋팅
 
-```git config --global user.email "kimtaesoung0608@gmail.com"```
-
-```git config --global user.name "taesoung-kim"```
+    git config --global user.email "kimtaesoung0608@gmail.com"
+    git config --global user.name "taesoung-kim"
+    
